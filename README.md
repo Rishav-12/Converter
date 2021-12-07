@@ -6,6 +6,5 @@ Unit Converter using Tkinter GUI
 * Tkinter
 
 ### Description
-* A brand new unit converter allows the user to flexibly choose the units he/she wants to convert.
-* Easy-to-use and self-explanatory.
-* It converts units of length, weight, temperature, area and volume
+* Easy-to-use unit converter. User can choose the units they want to convert.
+* It has options to convert units of length, weight, temperature, area and volume.
